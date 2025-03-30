@@ -1,0 +1,2 @@
+my:
+  config: "Hello, Spring Cloud Config!"
